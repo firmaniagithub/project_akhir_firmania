@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "193759698246",
+    "project_id": "movie-2c429",
+    "storage_bucket": "movie-2c429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193759698246:android:54089d69ad4c868e8bd947",
+        "android_client_info": {
+          "package_name": "com.example.tes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193759698246-2gtfrlman14tsv0k7k9kauikeo1qhpdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqUrZAZ5HL0hYEYoxLuRPWg_PwIH9B2Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193759698246-2gtfrlman14tsv0k7k9kauikeo1qhpdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193759698246:android:22c7be936c69c7d98bd947",
+        "android_client_info": {
+          "package_name": "com.example.teslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193759698246-2gtfrlman14tsv0k7k9kauikeo1qhpdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqUrZAZ5HL0hYEYoxLuRPWg_PwIH9B2Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193759698246-2gtfrlman14tsv0k7k9kauikeo1qhpdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
